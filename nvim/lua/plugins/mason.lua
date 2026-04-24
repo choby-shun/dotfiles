@@ -10,6 +10,7 @@ return {
       "terraform-ls",
       "isort",
       "black",
+      "taplo",
     },
   },
 }
